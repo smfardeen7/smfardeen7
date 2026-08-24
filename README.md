@@ -28,6 +28,4 @@ I'm Fardeen, an MS CS student at GMU with a B.Tech background from VIT. I'm driv
 
 If you want to reach out to me or connect with me check out my [Portfolio Website](https://fardeen.bio/)
 
-[![](https://komarev.com/ghpvc/?username=smfardeen7&icon=0&color=7aa2f7)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
