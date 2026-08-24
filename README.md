@@ -1,7 +1,7 @@
 <div align="center">
         <img src="https://raw.githubusercontent.com/smfardeen7/smfardeen7/main/profile-static.png" width="340" alt="Shaik Mohammad Fardeen"/>
     <br/>
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=const%20dev%20%3D%20%22Full-Stack%22%20%2F%2F%20MERN%20%2B%20FastAPI%20%2B%20Spring%20Boot;import%20ML%20from%20%22TensorFlow%20%2B%20PyTorch%20%2B%20scikit-learn%22;deploy%28app%29.to%28%5B%22AWS%22%2C%22GCP%22%2C%22Docker%22%2C%22K8s%22%5D%29;console.log%28%22MS%20CS%20%40%20GMU%22%29%20%2F%2F%20Always%20Building" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=1a1a1a&center=true&vCenter=true&width=680&lines=const%20dev%20%3D%20%22Full-Stack%22%20%2F%2F%20MERN%20%2B%20FastAPI%20%2B%20Spring%20Boot;import%20ML%20from%20%22TensorFlow%20%2B%20PyTorch%20%2B%20scikit-learn%22;deploy%28app%29.to%28%5B%22AWS%22%2C%22GCP%22%2C%22Docker%22%2C%22K8s%22%5D%29;console.log%28%22MS%20CS%20%40%20GMU%22%29%20%2F%2F%20Always%20Building" alt="Typing SVG"/>
 </div>
 
 # 💫 About Me:
