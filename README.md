@@ -20,6 +20,6 @@ I'm Fardeen, an MS CS student at GMU with a B.Tech background from VIT. I'm driv
 </div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=smfardeen7&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=smfardeen7&icon=0&color=7aa2f7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
