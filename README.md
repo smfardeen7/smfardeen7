@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/smfardeen7/smfardeen7/main/profile.gif" width="220" style="border-radius:50%" alt="Shaik Mohammad Fardeen"/>
+</div>
+
 # 💫 About Me:
 I'm Fardeen, an MS CS student at GMU with a B.Tech background from VIT. I'm driven by the intersection of software engineering and artificial intelligence—building systems that are scalable, intelligent, and user-centric.<br><br>What I do: Full-stack development (MERN, FastAPI, Spring Boot) | ML/AI systems (TensorFlow, PyTorch, scikit-learn) | Cloud & DevOps (AWS, GCP, Docker, Kubernetes)<br><br>Current focus: Healthcare ML projects, fintech solutions, loan prediction systems, and resume screening assistants. I love writing clean code, deploying production systems, and tackling hard problems.<br><br>Open to software engineering and AI/ML internships. Always learning, always building.
 
