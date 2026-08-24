@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/smfardeen7/smfardeen7/main/profile.gif" width="340" alt="Shaik Mohammad Fardeen"/>
+    <img src="https://raw.githubusercontent.com/smfardeen7/smfardeen7/main/profile-v2" width="340" alt="Shaik Mohammad Fardeen"/>
     <br/>
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+MERN+%2B+FastAPI+%2B+Spring+Boot;ML%2FAI+Engineer+%7C+TensorFlow+%2B+PyTorch+%2B+scikit-learn;Cloud+%26+DevOps+%7C+AWS+%2B+GCP+%2B+Docker+%2B+Kubernetes;MS+CS+%40+GMU+%7C+Always+Learning%2C+Always+Building" alt="Typing SVG"/>
 </div>
