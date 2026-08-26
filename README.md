@@ -24,8 +24,4 @@ I'm Fardeen, an MS CS student at GMU with a B.Tech background from VIT. I'm driv
 
 </div>
 
----
-
-If you want to reach out to me or connect with me check out my [Portfolio Website](https://fardeen.bio/)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
