@@ -1,27 +1,55 @@
-<img alt="smfardeen7's GitHub profile" src="https://raw.githubusercontent.com/smfardeen7/smfardeen7/main/dark_mode.svg" width="100%" />
-      <div align="center">
-        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=1a1a1a&center=true&vCenter=true&width=680&lines=const%20dev%20%3D%20%22Full-Stack%22%20%2F%2F%20MERN%20%2B%20FastAPI%20%2B%20Spring%20Boot;import%20ML%20from%20%22TensorFlow%20%2B%20PyTorch%20%2B%20scikit-learn%22;deploy%28app%29.to%28%5B%22AWS%22%2C%22GCP%22%2C%22Docker%22%2C%22K8s%22%5D%29;console.log%28%22MS%20CS%20%40%20GMU%22%29%20%2F%2F%20Always%20Building" alt="Typing SVG"/>
-</div>
+![ML infrastructure and model serving — Mohammad Fardeen Shaik](assets/profile-banner.png)
 
-# 💫 About Me:
-I'm Fardeen, an MS CS student at GMU with a B.Tech background from VIT. I'm driven by the intersection of software engineering and artificial intelligence—building systems that are scalable, intelligent, and user-centric.<br><br>What I do: Full-stack development (MERN, FastAPI, Spring Boot) | ML/AI systems (TensorFlow, PyTorch, scikit-learn) | Cloud & DevOps (AWS, GCP, Docker, Kubernetes)<br><br>Current focus: Healthcare ML projects, fintech solutions, loan prediction systems, and resume screening assistants. I love writing clean code, deploying production systems, and tackling hard problems.<br><br>Open to software engineering and AI/ML internships. Always learning, always building.
+# Mohammad Fardeen Shaik
 
+M.S. Computer Science student at George Mason University, expected May 2027, with a B.Tech. in Computer Science and Engineering from VIT. I build AI software with a focus on ML infrastructure, model serving, and the engineering work that makes model behavior measurable.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikmofardeen/)
+My experience includes a summer 2026 cloud/AI internship at Quadrant Technologies and earlier full-stack development at Ethnus Codemithra. At GMU, I serve as an ITS AI Ambassador and Secretary of the CS Graduate Student Association.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/shaikmofardeen/) · [GitHub projects](https://github.com/smfardeen7?tab=repositories) · [Recorded serving console](https://smfardeen7.github.io/switchyard-ml/)
 
-# 📊 GitHub Stats:
+## Featured: Switchyard ML
 
-<div align="center">
+[Code](https://github.com/smfardeen7/switchyard-ml) · [Recorded console](https://smfardeen7.github.io/switchyard-ml/) · [Performance study](https://github.com/smfardeen7/switchyard-ml/blob/main/docs/PERFORMANCE.md)
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=smfardeen7&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&hide=stars,prs,issues&show_icons=true" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=smfardeen7&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" />
+A model-serving reference platform with real ONNX CPU inference, bounded dynamic batching, request deadlines, canary routing, observed error/latency guardrails, and automatic rollback. FastAPI serves the API; a React/TypeScript console exposes model lineage, metrics, and release history.
 
-<img src="https://streak-stats.demolab.com/?user=smfardeen7&theme=tokyonight&hide_border=true&border_radius=10" width="70%"/>
+![Actual Switchyard console after automatic canary rollback](assets/switchyard-console.png)
 
-</div>
+*Actual console capture from the local HTTP failure experiment. This public frame is recorded and read-only.*
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 6,144 successful requests in the recorded engine benchmark, with warmup, concurrency, hardware, and latency distributions disclosed.
+- A separate HTTP experiment triggered automatic rollback and verified 160/160 successful recovery requests.
+- The public console replays the captured experiment. Live inference and release controls run locally.
+- Scope: one API process and CPU reference models. GPU performance, distributed serving, and production customer traffic are not claimed.
+
+## Other projects
+
+| Project | What to inspect |
+|---|---|
+| [Invoice intelligence](https://github.com/smfardeen7/ai-contract-invoice-intelligence) | Text/PDF field extraction, exact-decimal contract checks, duplicate handling, and an auditable review queue using invented examples. |
+| [Shelfwise retail recommendations](https://github.com/smfardeen7/retail-recommendation-platform) | FastAPI/React analytics, SVD recommendations, RFM/KMeans segments, Apriori rules, and a time-based synthetic holdout against popularity. |
+| [Audio classification lab](https://github.com/smfardeen7/infant-cry-analysis) | WAV validation, signal features, group-disjoint evaluation, and a Flask workspace; included training data is synthetic audio, not infant recordings. |
+| [Autism screening research](https://github.com/smfardeen7/autism-screening-research) | Synthetic behavioral-data experiments, subject-disjoint evaluation, encrypted records, and an authenticated Flask API. No diagnostic or clinical-performance claims. |
+| [Parkinson's hybrid prediction research](https://github.com/smfardeen7/parkinsons-hybrid-prediction) | Subject-disjoint Random Forest/SVM comparisons, probability calibration, and an attributed UCI evaluation with baseline results. |
+| [Loan default modeling](https://github.com/smfardeen7/cooperative-bank-loan-default) | Existing synthetic-data project with PyTorch, preprocessing, training, prediction, explanation, and test modules. |
+
+Switchyard was built in September 2026. The five invoice, retail, audio, autism, and Parkinson's repositories are original September 22–24, 2026 implementations of earlier project concepts; they are not recovered historical source. The loan project predates this portfolio refresh. Each repository states its own data, evaluation, and deployment limits.
+
+## Additional engineering projects
+
+| Project | What to inspect |
+|---|---|
+| [Sagacious-AI](https://github.com/smfardeen7/Sagacious-AI) | Parallel model-provider orchestration, streamed progress, SQLite persistence, and file-hash-bound approval for scoped changes on a new git branch. The no-key demo is deterministic; judge scores do not establish correctness. |
+| [GenAI traffic fingerprinting](https://github.com/smfardeen7/fingerprint-GENAI) | PCAP/PCAPNG feature extraction, grouped dataset checks, observation-window experiments, exported models, and an offline report. The published demonstration uses synthetic sessions. |
+| [My J.A.R.V.I.S](https://github.com/smfardeen7/My-J.A.R.V.I.S) | Native macOS assistant with local Ollama, speech input/output, explicit Mac commands, and Touch ID confirmation. The browser demo simulates the interface; voice matching is a fallible filter. |
+| [Container delivery pipeline](https://github.com/smfardeen7/SWE645-HW2) | Docker/Tomcat packaging, Jenkins delivery configuration, and Kubernetes deployment/service manifests. No automated test stage or currently running AWS/Rancher cluster is claimed. |
+| [Aleesa commerce](https://github.com/smfardeen7/aleesa) | Next.js/Prisma application with transactional stock reservations, idempotent orders, owner workflows, and a Razorpay integration. Local demonstration catalogue; merchant sandbox verification is not claimed. |
+
+## Technical focus
+
+Python · FastAPI · ONNX Runtime · scikit-learn · PyTorch · React/TypeScript · SQL · automated testing · CI/CD · Prometheus
+
+My broader full-stack background includes MERN, Angular, and Spring Boot; my current focus is inference services and ML platform tools.
+
+I'm interested in AI software engineering work on inference services and ML platform tools.
